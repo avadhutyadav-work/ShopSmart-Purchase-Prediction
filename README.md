@@ -1,8 +1,6 @@
 # ShopSmart – Purchase Prediction
 
-A machine learning project that predicts whether an online-store visitor will make a purchase, based on their session behaviour. The model is deployed as a **Streamlit** web app.
-
-**Live app:** _add your Streamlit link here_
+A machine learning project that predicts whether an online-store visitor will make a purchase, based on their session behaviour. 
 
 ---
 
@@ -63,5 +61,3 @@ Then open `http://localhost:8501` in your browser.
 ## Tech Stack
 Python, pandas, scikit-learn, seaborn, matplotlib, Streamlit
 
-## Author
-_Your name_
